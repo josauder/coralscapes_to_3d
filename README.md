@@ -31,7 +31,8 @@ If you use this in your work, please cite:
 
 or for bibtex:
 
-```@misc{sauder2025coralscapesdatasetsemanticscene,
+```
+@misc{sauder2025coralscapesdatasetsemanticscene,
   title={The Coralscapes Dataset: Semantic Scene Understanding in Coral Reefs}, 
   author={Jonathan Sauder and Viktor Domazetoski and Guilhem Banc-Prandi and Gabriela Perna and Anders Meibom and Devis Tuia},
   year={2025},
@@ -39,4 +40,5 @@ or for bibtex:
   archivePrefix={arXiv},
   primaryClass={cs.CV},
   url={https://arxiv.org/abs/2503.20000}, 
-}```
+}
+```
