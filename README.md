@@ -27,18 +27,15 @@ After running, the point cloud should appear in the workspace folder, and you ca
 
 If you use this in your work, please cite:
 
-```Sauder, Jonathan, et al. "The Coralscapes Dataset: Semantic Scene Understanding in Coral Reefs." arXiv preprint arXiv:2503.20000 (2025).```    
+```Sauder, Jonathan, et al. "The Coralscapes Dataset: Semantic Scene Understanding in Coral Reefs." International Conference on Computer Vision (ICCV) Joint Workshop on Marine Vision 2025.```    
 
 or for bibtex:
 
 ```
-@misc{sauder2025coralscapesdatasetsemanticscene,
-  title={The Coralscapes Dataset: Semantic Scene Understanding in Coral Reefs}, 
+@inproceedings{sauder2025coralscapesdatasetsemanticscene,
+  title={The Coralscapes Dataset: Semantic Scene Understanding in Coral Reefs},
   author={Jonathan Sauder and Viktor Domazetoski and Guilhem Banc-Prandi and Gabriela Perna and Anders Meibom and Devis Tuia},
-  year={2025},
-  eprint={2503.20000},
-  archivePrefix={arXiv},
-  primaryClass={cs.CV},
-  url={https://arxiv.org/abs/2503.20000}, 
+  booktitle={Proceedings of the International Conference on Computer Vision Joint Workshop on Marine Vision},
+  year={2025}
 }
 ```
